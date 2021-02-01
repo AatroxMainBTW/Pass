@@ -1,6 +1,6 @@
 # Pass
 
-sort search Algorithm implementation 
+graphical implementation of sorting and searching Algorithm  
 
 ### Preview
 
